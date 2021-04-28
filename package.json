@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "curriculum repo for Savvy Coders",
   "main": "index.js",
-  "scripts": {
-    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
-    "serve": "parcel index.html",
-    "test": "./node_modules/.bin/jasmine-node spec"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
